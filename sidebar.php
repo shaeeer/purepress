@@ -7,9 +7,9 @@
 
 	<!-- widgets -->
 	<div class="sidebar-widget">
-	<?php dynamic_sidebar( 'sidebar' ); ?>
+	<?php dynamic_sidebar( 'widget-area' ); ?>
 	</div>
 	<!-- widgets -->
-	
+
 </aside>
 <!-- /sidebar -->

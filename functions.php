@@ -88,7 +88,7 @@ function purepress_styles()
 
     wp_register_style('purepress', get_template_directory_uri() . '/style.css', array(), '1.0', 'all');
     wp_enqueue_style('purepress'); // Enqueue it!
-}
+
 
 
 // A C T I O N S
